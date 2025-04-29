@@ -2,7 +2,7 @@
 
 A modern web application for managing personal finances, built with React and Tailwind CSS.
 
-![Personal Finance App Screenshot](./public/screenshot.png)
+![Personal Finance App Screenshot](./public/finance-app.jpg)
 
 ## Features
 
@@ -28,16 +28,19 @@ A modern web application for managing personal finances, built with React and Ta
 ## Getting Started
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/Hanan1413/personal-finance-app.git
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 3. Start the development server
+
 ```bash
 npm run dev
 ```
