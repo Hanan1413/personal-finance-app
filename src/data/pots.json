@@ -1,0 +1,45 @@
+{
+    "pots": [
+      {
+        "id": "1",
+        "name": "Savings",
+        "currentAmount": 159.00,
+        "targetAmount": 2000.00,
+        "percentComplete": 8.00,
+        "color": "#20a090"
+      },
+      {
+        "id": "2",
+        "name": "Concert Ticket",
+        "currentAmount": 125.00,
+        "targetAmount": 150.00,
+        "percentComplete": 83.00,
+        "color": "#6c757d"
+      },
+      {
+        "id": "3",
+        "name": "Gift",
+        "currentAmount": 110.00,
+        "targetAmount": 150.00,
+        "percentComplete": 73.00,
+        "color": "#57c3e1"
+      },
+      {
+        "id": "4",
+        "name": "New Laptop",
+        "currentAmount": 10.00,
+        "targetAmount": 1000.00,
+        "percentComplete": 1.00,
+        "color": "#f0ccaa"
+      },
+      {
+        "id": "5",
+        "name": "Holiday",
+        "currentAmount": 531.00,
+        "targetAmount": null,
+        "percentComplete": null,
+        "color": "#8a76d2"
+      }
+    ],
+    "totalSaved": 935.00
+  }
